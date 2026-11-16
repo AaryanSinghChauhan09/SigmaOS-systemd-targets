@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-targets"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-targets component - init_system"
+
+[lib]
+name = "systemd_targets"
+path = "src/lib.rs"
