@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-targets"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-targets component"
+description = "systemd targets"
 upstream = []
 
 [contract]
